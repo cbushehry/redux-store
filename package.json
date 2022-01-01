@@ -1,0 +1,19 @@
+{
+  "name": "redux-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbushehry/redux-store.git"
+  },
+  "author": "Cameron Bushehry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbushehry/redux-store/issues"
+  },
+  "homepage": "https://github.com/cbushehry/redux-store#readme"
+}
